@@ -1,0 +1,29 @@
+:root {
+  --color-ink: #1c1f1d;
+  --color-ink-soft: #3a403c;
+  --color-muted: #6b736e;
+  --color-paper: #eceae4;
+  --color-paper-deep: #ddd9d0;
+  --color-sage: #4f6350;
+  --color-sage-bright: #6a8568;
+  --color-lamp: #c4a574;
+  --color-line: rgba(28, 31, 29, 0.12);
+
+  --font-brand: "Syne", sans-serif;
+  --font-display: "Fraunces", serif;
+  --font-body: "Source Serif 4", Georgia, serif;
+  --font-ui: "Syne", sans-serif;
+
+  --space-xs: 0.5rem;
+  --space-sm: 0.75rem;
+  --space-md: 1.25rem;
+  --space-lg: 2rem;
+  --space-xl: 3.5rem;
+  --space-2xl: 6rem;
+  --space-3xl: 9rem;
+
+  --measure: 38rem;
+  --radius: 0;
+
+  --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
+}

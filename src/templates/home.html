@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Don Kruger</title>
+    <meta
+      name="description"
+      content="Essays on presence, boredom, and the things that compound over decades — by Don Kruger."
+    />
+    <meta name="author" content="Don Kruger" />
+    <link rel="canonical" href="https://don-kruger-blog.netlify.app/" />
+
+    <meta property="og:site_name" content="Don Kruger" />
+    <meta property="og:locale" content="en_ZA" />
+    <meta property="og:title" content="Don Kruger" />
+    <meta
+      property="og:description"
+      content="Essays on presence, boredom, and the things that compound over decades."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://don-kruger-blog.netlify.app/" />
+    <meta
+      property="og:image"
+      content="https://don-kruger-blog.netlify.app/images/og/default.jpg"
+    />
+    <meta
+      property="og:image:secure_url"
+      content="https://don-kruger-blog.netlify.app/images/og/default.jpg"
+    />
+    <meta property="og:image:type" content="image/jpeg" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content="Don Kruger — personal essays" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Don Kruger" />
+    <meta
+      name="twitter:description"
+      content="Essays on presence, boredom, and the things that compound over decades."
+    />
+    <meta
+      name="twitter:image"
+      content="https://don-kruger-blog.netlify.app/images/og/default.jpg"
+    />
+    <meta name="twitter:image:alt" content="Don Kruger — personal essays" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,450;9..144,600&family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600&family=Syne:wght@600;700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body class="home">
+    <div class="grain" aria-hidden="true"></div>
+    <header class="site-header">
+      <a href="/">Don Kruger</a>
+      <a href="#writing">Writing</a>
+    </header>
+
+    <main>
+      <section class="home-hero" aria-label="Introduction">
+        <div class="home-hero__atmosphere" aria-hidden="true">
+          <!-- HERO_IMAGE -->
+          <div class="home-hero__veil"></div>
+        </div>
+        <div class="home-hero__content">
+          <h1 class="home-brand">Don Kruger</h1>
+          <p class="home-headline">Writing toward the second layer of knowing.</p>
+          <p class="home-lede">
+            Personal essays on presence, boredom, and the slow things that compound.
+          </p>
+          <a class="home-cta" href="/posts/closing-out-my-20s/">
+            Read the latest
+            <svg viewBox="0 0 16 16" fill="none" aria-hidden="true">
+              <path
+                d="M8 2v10M3.5 8.5 8 13l4.5-4.5"
+                stroke="currentColor"
+                stroke-width="1.5"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+            </svg>
+          </a>
+        </div>
+      </section>
+
+      <section class="home-writing" id="writing">
+        <div class="home-writing__header">
+          <p class="home-writing__eyebrow">Essays</p>
+          <h2 class="home-writing__title">The writing</h2>
+        </div>
+        <ul class="post-list">
+          <!-- POST_LIST -->
+        </ul>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <span>© <span data-year></span> Don Kruger</span>
+      <span>Built with GSAP · Hosted on Netlify</span>
+    </footer>
+
+    <script type="module">
+      document.querySelectorAll("[data-year]").forEach((el) => {
+        el.textContent = String(new Date().getFullYear());
+      });
+    </script>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>
