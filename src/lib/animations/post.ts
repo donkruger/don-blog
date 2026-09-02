@@ -66,8 +66,7 @@ export function initPostAnimations(root: HTMLElement = document.body) {
 
       if (isDesktop && heroImg) {
         gsap.to(heroImg, {
-          yPercent: 12,
-          scale: 1.05,
+          yPercent: 5,
           ease: "none",
           scrollTrigger: {
             trigger: ".post-hero",

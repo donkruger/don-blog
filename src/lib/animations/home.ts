@@ -54,8 +54,7 @@ export function initHomeAnimations(root: HTMLElement = document.body) {
 
     if (isDesktop && heroImg) {
       gsap.to(heroImg, {
-        yPercent: 8,
-        scale: 1.02,
+        yPercent: 4,
         ease: "none",
         scrollTrigger: {
           trigger: ".home-hero",
