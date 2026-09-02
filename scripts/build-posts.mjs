@@ -84,8 +84,10 @@ function absoluteUrl(pathOrUrl) {
 
 function renderPost(template, post) {
   const ogUrl = `${siteUrl}/posts/${post.slug}/`;
-  const ogImage = absoluteUrl(post.ogImage || post.thumbnail);
+  // Cache-bust OG image so WhatsApp/Facebook rescrape picks up fresh previews.
+  const ogImage = `${absoluteUrl(post.ogImage || post.thumbnail)}?v=2`;
   const ogDate = post.date ? `${post.date}T12:00:00+02:00` : "";
+  const ogModified = new Date().toISOString();
 
   return template
     .replaceAll("<!-- TITLE -->", escapeHtml(post.title))
@@ -95,7 +97,8 @@ function renderPost(template, post) {
     .replaceAll("<!-- CONTENT -->", post.html)
     .replaceAll("<!-- OG_IMAGE -->", escapeAttr(ogImage))
     .replaceAll("<!-- OG_URL -->", escapeAttr(ogUrl))
-    .replaceAll("<!-- OG_DATE -->", escapeAttr(ogDate));
+    .replaceAll("<!-- OG_DATE -->", escapeAttr(ogDate))
+    .replaceAll("<!-- OG_MODIFIED -->", escapeAttr(ogModified));
 }
 
 function escapeHtml(value) {
