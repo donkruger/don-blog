@@ -2,7 +2,7 @@
 title: Closing out my 20s
 slug: closing-out-my-20s
 date: "2026-09-02"
-description: Subtracting distractions, boredom as fuel, and a peyote cactus as a metaphor for slow compounding toward 30.
+description: Subtracting distractions, boredom as fuel, and a peyote cactus
 thumbnail: /images/posts/closing-out-my-20s.png
 ogImage: /images/og/closing-out-my-20s.jpg
 tags:
