@@ -85,7 +85,7 @@ function absoluteUrl(pathOrUrl) {
 function renderPost(template, post) {
   const ogUrl = `${siteUrl}/posts/${post.slug}/`;
   // Cache-bust OG image so WhatsApp/Facebook rescrape picks up fresh previews.
-  const ogImage = `${absoluteUrl(post.ogImage || post.thumbnail)}?v=2`;
+  const ogImage = `${absoluteUrl(post.ogImage || post.thumbnail)}?v=3`;
   const ogDate = post.date ? `${post.date}T12:00:00+02:00` : "";
   const ogModified = new Date().toISOString();
 
