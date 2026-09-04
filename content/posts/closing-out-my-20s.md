@@ -84,9 +84,9 @@ Well technically South African law only recognises it crossing the barrier from 
 
 As long as the plant remains untouched on my balcony, its legal status is no matter of concern.
 
-But my resonation with the Peyote is a sort of kinship as you can imagine.
-
 In a world optimized for instant dopamine, this little marble-sized plant is such a fitting symbol of defiance. And it comes of maturity more or less around the age I am approaching – the tender age of 30.
+
+My resonation with the Peyote is a sort of kinship as you can imagine.
 
 The Peyote serves as a subtle reminder to appreciate those compounding things that can only be achieved on the scale of decades.
 
@@ -98,7 +98,7 @@ Subtracting something you resent can indeed teach you a lot. But more interestin
 
 I find it fascinating to live through the results of these subtractions… a cleared out garage, longer conversations with Michaela and generally enhanced clarity of thought.
 
-Less if very often more…especially in this world of abundance.
+Less is very often more…especially in this world of abundance.
 
 ## Closing out my 20s
 
