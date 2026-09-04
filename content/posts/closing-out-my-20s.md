@@ -1,5 +1,5 @@
 ---
-title: Closing out my 20s
+title: Peyote, and Closing Out My 20s
 slug: closing-out-my-20s
 date: "2026-09-02"
 description: Subtracting distractions, boredom as fuel, and a peyote cactus
