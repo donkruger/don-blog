@@ -28,6 +28,14 @@
   overflow: hidden;
 }
 
+@media (max-width: 799px) {
+  .post-hero {
+    min-height: 0;
+    aspect-ratio: 5 / 4;
+    max-height: 72svh;
+  }
+}
+
 .post-hero__media {
   position: absolute;
   inset: 0;
@@ -40,6 +48,12 @@
   object-fit: cover;
   object-position: 50% 40%;
   will-change: transform;
+}
+
+@media (max-width: 799px) {
+  .post-hero__media img {
+    object-position: 42% 55%;
+  }
 }
 
 .post-hero__veil {
@@ -63,6 +77,16 @@
     clamp(1.25rem, 4vw, 3rem)
     var(--space-2xl);
   max-width: 44rem;
+}
+
+@media (max-width: 799px) {
+  .post-hero__content {
+    padding: 4.5rem 1.25rem 1.35rem;
+  }
+
+  .post-hero__title {
+    font-size: clamp(1.85rem, 8vw, 2.4rem);
+  }
 }
 
 .post-hero__meta {
