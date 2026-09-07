@@ -1,8 +1,8 @@
 ---
-title: Peyote, and Closing Out My 20s
+title: When Peyotes Flower
 slug: closing-out-my-20s
 date: "2026-09-02"
-description: Subtracting distractions, boredom as fuel, and a peyote cactus
+description: A few musings on closing out my twenties
 thumbnail: /images/posts/closing-out-my-20s.png
 ogImage: /images/og/closing-out-my-20s.jpg
 tags:
