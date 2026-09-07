@@ -1,5 +1,5 @@
 ---
-title: When Peyotes Flower
+title: When Peyotes Bloom
 slug: closing-out-my-20s
 date: "2026-09-13"
 description: A few musings on closing out my twenties
