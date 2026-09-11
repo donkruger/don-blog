@@ -78,9 +78,9 @@ The Peyote has been used by the Native Americans in spiritual ceremonies for mil
 
 I must say it scores by no means among the prettiest cacti. It looks like the cacti equivalent of that tiny little immortal creature thingamajig they call a Tardigrade.
 
-Anyway… I bought it for R80. Which is to say I procured a Schedule 1 narcotic.
+Anyway… I bought it for R80. Which is to say I procured a Schedule 7 narcotic.
 
-Well technically South African law only recognises it crossing the barrier from cactus to Schedule 1 illegal substance when one harvests it with intent for consumption (Schedule 1 being on the level of Crystal Meth or Heroin).
+Well, technically the potted plant is still just a cactus. South African law schedules the mescaline inside it — same prohibited class as heroin and crystal meth — and only treats it as such once you prepare it to eat.
 
 As long as the plant remains untouched on my balcony, its legal status is no matter of concern.
 
