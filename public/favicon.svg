@@ -1,12 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <!-- Eye favicon in the site's earthy palette: sage outline, warm-lamp iris. -->
-  <path
-    d="M5 32 C 16 17, 48 17, 59 32 C 48 47, 16 47, 5 32 Z"
-    fill="none"
-    stroke="#4f6350"
-    stroke-width="5.5"
-    stroke-linejoin="round"
-  />
-  <circle cx="32" cy="32" r="11.5" fill="#c4a574"/>
-  <circle cx="32" cy="32" r="5.5" fill="#1c1f1d"/>
+  <!-- Seedling favicon in the site's sage palette: a stem with two young leaves. -->
+  <g fill="#4f6350">
+    <!-- left leaf -->
+    <path d="M32 40 C 24 40, 16 34, 15 24 C 25 25, 31 31, 32 40 Z" />
+    <!-- right leaf -->
+    <path d="M32 34 C 40 34, 48 28, 49 18 C 39 19, 33 25, 32 34 Z" />
+    <!-- stem -->
+    <rect x="29.5" y="34" width="5" height="22" rx="2.5" />
+  </g>
 </svg>
