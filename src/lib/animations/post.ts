@@ -7,8 +7,10 @@ import {
 } from "./reduced-motion";
 
 /**
- * Post motion stays off the essay body — reading first.
- * Only hero chrome + reading progress animate.
+ * Hero chrome + reading-progress motion for the post page.
+ * The essay body's own scroll motion (fade-in reveal + the left-gutter
+ * "spine" rail/milestones) lives in ./post-spine, kept separate so hero
+ * intro/parallax and body-scroll animation can evolve independently.
  */
 export function initPostAnimations(root: HTMLElement = document.body) {
   const mm = createMotionMedia();

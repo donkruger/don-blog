@@ -122,6 +122,7 @@
 .post-article__inner {
   max-width: var(--measure);
   margin: 0 auto;
+  position: relative;
 }
 
 .post-article h2 {
@@ -165,4 +166,106 @@
 
 .reveal {
   will-change: transform, opacity;
+}
+
+/*
+ * Scroll spine — ambient vertical rail + milestone dots in the left
+ * gutter of the essay column. Borrows the vertical-timeline motif
+ * (dashed rail, drawing accent line, lighting nodes) with no dates or
+ * labels attached; it's decoration, not a real timeline. Desktop only —
+ * narrower viewports have no gutter to hold it.
+ */
+.spine {
+  display: none;
+  pointer-events: none;
+}
+
+@media (min-width: 800px) {
+  .spine {
+    display: block;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: calc(100% + 2rem);
+    width: 1px;
+    background-image: linear-gradient(
+      to bottom,
+      var(--color-line) 0 3px,
+      transparent 3px 7px
+    );
+    background-size: 1px 7px;
+  }
+}
+
+.spine__progress {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 1px;
+  background: var(--color-sage-bright);
+  box-shadow: 0 0 6px rgba(106, 133, 104, 0.5);
+  transform-origin: top center;
+  transform: scaleY(0);
+  will-change: transform;
+}
+
+.spine__dot {
+  position: absolute;
+  left: 0;
+  width: 11px;
+  height: 11px;
+  border-radius: 50%;
+  background: var(--color-paper);
+  border: 1px solid var(--color-muted);
+  transition: border-color 0.3s var(--ease-out);
+  will-change: transform;
+}
+
+.spine__dot::after {
+  content: "";
+  position: absolute;
+  inset: 3px;
+  border-radius: 50%;
+  background: var(--color-muted);
+  transition: background-color 0.3s var(--ease-out);
+}
+
+.spine__dot::before {
+  content: "";
+  position: absolute;
+  inset: -1px;
+  border-radius: 50%;
+  border: 1px solid var(--color-sage-bright);
+  opacity: 0;
+  pointer-events: none;
+}
+
+.spine__dot.is-lit {
+  border-color: var(--color-sage-bright);
+}
+
+.spine__dot.is-lit::after {
+  background: var(--color-sage-bright);
+}
+
+.spine__dot.is-lit::before {
+  animation: spinePulse 0.75s var(--ease-out);
+}
+
+@keyframes spinePulse {
+  from {
+    opacity: 0.5;
+    transform: scale(1);
+  }
+  to {
+    opacity: 0;
+    transform: scale(2.6);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .spine__dot.is-lit::before {
+    animation: none;
+  }
 }
