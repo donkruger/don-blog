@@ -9,12 +9,20 @@ import {
 const DOT_LINE_FACTOR = 0.55;
 
 /**
- * Bottom-of-viewport band where body content fades in. Kept narrow (top of
- * element between 98%→80% down the viewport, i.e. roughly the bottom
- * fifth of the screen) so nothing above that band is ever dimmed — the
- * animation should never fight reading.
+ * Bottom-of-viewport band where body content fades in.
+ *
+ * Start is keyed off the element's BOTTOM edge at the moment it enters the
+ * viewport ("bottom bottom"), not its top — so the fade/blur is already
+ * applied before any of the text is meaningfully readable. Keying off the
+ * top instead lets a tall paragraph's lower lines rise into view fully
+ * opaque, with the fade only kicking in once the top edge finally crosses
+ * the threshold — a visible "pop" as the effect retroactively applies.
+ *
+ * End stays keyed off the top edge at 80% down the viewport, so content is
+ * always fully clear above roughly the bottom fifth of the screen and the
+ * animation never fights reading.
  */
-const FADE_START = "top 98%";
+const FADE_START = "bottom bottom";
 const FADE_END = "top 80%";
 
 type DotEntry = { dot: HTMLElement; heading: HTMLElement; top: number };
@@ -157,27 +165,28 @@ export function initPostSpine(root: HTMLElement = document.body) {
         }
 
         contentChildren.forEach((el) => {
-          gsap.fromTo(
-            el,
-            { autoAlpha: 0.28, y: 12, filter: "blur(4px)" },
-            {
-              autoAlpha: 1,
-              y: 0,
-              filter: "blur(0px)",
-              ease: "none",
-              immediateRender: false,
-              scrollTrigger: {
-                trigger: el,
-                start: FADE_START,
-                end: FADE_END,
-                // Exact (unsmoothed) scrub: the fade must always match the
-                // element's real viewport position, even on a fast/flick
-                // scroll — a lagged catch-up could let dimmed text bleed
-                // above the intended bottom band.
-                scrub: true,
-              },
+          // Pre-apply the dimmed state immediately so the element is BORN
+          // faded — with immediateRender:false the tween would otherwise
+          // leave it at its natural (fully opaque) CSS state until the
+          // ScrollTrigger first activates, producing a one-frame crisp
+          // flash as text enters before the fade catches it.
+          gsap.set(el, { autoAlpha: 0.28, y: 12, filter: "blur(4px)" });
+          gsap.to(el, {
+            autoAlpha: 1,
+            y: 0,
+            filter: "blur(0px)",
+            ease: "none",
+            scrollTrigger: {
+              trigger: el,
+              start: FADE_START,
+              end: FADE_END,
+              // Exact (unsmoothed) scrub: the fade must always match the
+              // element's real viewport position, even on a fast/flick
+              // scroll — a lagged catch-up could let dimmed text bleed
+              // above the intended bottom band.
+              scrub: true,
             },
-          );
+          });
         });
       }
 
