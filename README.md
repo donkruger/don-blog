@@ -56,6 +56,9 @@ Pipeline mirrors the Sarah Mason canvas pattern (headers, short HTML cache, clea
 
 ## Motion notes
 
-- GSAP + ScrollTrigger live in `src/lib/`.
+- GSAP + ScrollTrigger live in `src/lib/`; the plugin is registered once in `src/lib/gsap.ts` (import from there, don't re-register).
 - `gsap.matchMedia()` gates desktop scrub/parallax; mobile keeps light once-play fades.
-- `prefers-reduced-motion: reduce` skips motion and shows final states.
+- `prefers-reduced-motion: reduce` skips motion and shows final states; no-JS renders fully readable (initial states are set from JS, not CSS).
+- Post pages have a decorative **scroll spine** in the left gutter of the essay column — a dashed rail, a scroll-drawn accent line, and a milestone dot per `h2` that lights as the line passes (no dates/labels; ornament only). Body text fades in from partial opacity/blur, but only while crossing the bottom ~18% of the viewport, using an exact scrub so dimmed text never bleeds above that band. Implemented in `src/lib/animations/post-spine.ts`.
+
+See [AGENTS.md](AGENTS.md) for the full motion conventions any new animation must follow.
