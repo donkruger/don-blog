@@ -141,6 +141,9 @@ function updateIndex(posts) {
     `<!-- HERO_IMAGE -->\n          ${heroImage}\n          `,
   );
 
+  const latestHref = latest ? `/posts/${latest.slug}/` : "/#writing";
+  indexHtml = indexHtml.replaceAll("<!-- LATEST_HREF -->", escapeAttr(latestHref));
+
   const list = posts.map(renderPostCard).join("\n          ");
   indexHtml = indexHtml.replace(
     /(<ul class="post-list">)[\s\S]*?(<\/ul>)/,

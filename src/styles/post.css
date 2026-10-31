@@ -50,9 +50,19 @@
   will-change: transform;
 }
 
+/* Portrait of Ashton sits low in the frame; the shared 40% anchor
+   crops off his face and leaves the collar filling the hero. */
+.post-hero__media img[src*="reflections-on-natural-birth"] {
+  object-position: 50% 58%;
+}
+
 @media (max-width: 799px) {
   .post-hero__media img {
     object-position: 42% 55%;
+  }
+
+  .post-hero__media img[src*="reflections-on-natural-birth"] {
+    object-position: 50% 58%;
   }
 }
 

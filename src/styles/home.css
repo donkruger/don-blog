@@ -32,6 +32,10 @@
   will-change: transform;
 }
 
+.home-hero__atmosphere img[src*="reflections-on-natural-birth"] {
+  object-position: 50% 58%;
+}
+
 .home-hero__veil {
   position: absolute;
   inset: 0;
