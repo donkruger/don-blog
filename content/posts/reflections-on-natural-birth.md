@@ -280,30 +280,28 @@ That is enough for now.
 
 But newborns are hard, and Micky’s marathon has not ended.
 
-Labour was only the climb.
+Labour was a real milestone. It mattered. It changed her.
 
-What follows is the long descent: night feeds, cluster feeds, the strange fog of days that no longer have clean edges.
+It just was not the end of the hard part.
 
-Sleep is becoming a rumour.
+What comes after is night feeds, cluster feeds, and days that blur into each other.
 
-We are learning to live in shorter units of rest, to take whatever the night offers and call it enough.
+Sleep is scarce.
 
-I am watching Michaela keep going with the same quiet steel she brought into that labour room, only now the work is quieter, lonelier, and far less celebrated.
+You take whatever rest you can get and keep going.
 
-There is no crowd for the 3am feed.
+I am watching Michaela do that with the same resolve she had in the labour room, only now the work is mostly invisible.
 
-There is no finish-line photograph when you get him back to sleep for forty minutes.
+Feeding him at 3am. Settling him again at 4. Trying to rest for twenty minutes and hoping he lets you.
 
-Just the two of us, learning a new cadence, one broken night at a time.
+It is ordinary, relentless, and easy to underestimate from the outside.
 
-I am grateful for all of it.
+I am grateful Ash is here and doing well.
 
-Grateful that Ash arrived under his own steam.
+I am grateful Micky had the preparation, the midwives, and the conviction to hold the line when the system wanted to hurry.
 
-Grateful that Micky had the preparation, the midwives, and the conviction to hold the line when the system wanted to hurry.
-
-Grateful that we get to be tired for a reason this good.
+And I am grateful we get to be this tired for a reason this good.
 
 Watching his mother fight for every single second of his arrival was among the greatest privileges of my life.
 
-The next privilege looks smaller from the outside: staying awake for him, staying soft for each other, and not rushing the early weeks the way the world rushes everything else.
+The next part is quieter. Stay present. Stay patient. Do not rush these early weeks.
