@@ -272,4 +272,38 @@ You cannot rush a four-day hike through the Drakensberg, you cannot skip the har
 
 Ashton James Kruger is here now, healthy, alert, and right at the beginning of his three billion heartbeats.
 
+So far, Ash is doing well.
+
+He feeds, he settles, he stares at the world like he is still deciding what to make of it.
+
+That is enough for now.
+
+But newborns are hard, and Micky’s marathon has not ended.
+
+Labour was only the climb.
+
+What follows is the long descent: night feeds, cluster feeds, the strange fog of days that no longer have clean edges.
+
+Sleep is becoming a rumour.
+
+We are learning to live in shorter units of rest, to take whatever the night offers and call it enough.
+
+I am watching Michaela keep going with the same quiet steel she brought into that labour room, only now the work is quieter, lonelier, and far less celebrated.
+
+There is no crowd for the 3am feed.
+
+There is no finish-line photograph when you get him back to sleep for forty minutes.
+
+Just the two of us, learning a new cadence, one broken night at a time.
+
+I am grateful for all of it.
+
+Grateful that Ash arrived under his own steam.
+
+Grateful that Micky had the preparation, the midwives, and the conviction to hold the line when the system wanted to hurry.
+
+Grateful that we get to be tired for a reason this good.
+
 Watching his mother fight for every single second of his arrival was among the greatest privileges of my life.
+
+The next privilege looks smaller from the outside: staying awake for him, staying soft for each other, and not rushing the early weeks the way the world rushes everything else.
