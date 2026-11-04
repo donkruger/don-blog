@@ -82,13 +82,21 @@ I should also be honest about the supportive drugs that were in play.
 
 This was not a story of zero pharmacological help.
 
-Micky used short-lived relief rather than an epidural: laughing gas, pethidine, and Remifentanil, an opioid that wears off in about one to two minutes and cannot be used once you start pushing.
+Micky used short-lived relief rather than an epidural: laughing gas, and Remifentanil, an opioid that wears off in about one to two minutes and cannot be used once you start pushing.
 
 Those tools took the edge off in the hardest stretches without flattening the process the way an epidural does.
 
 They did not rewrite the birth.
 
 They simply made it possible to stay inside it.
+
+What she did not use is pethidine.
+
+That one is a different category altogether.
+
+It lingers in the system, crosses to the baby, and leaves newborns drowsy at the exact moment they need to be alert.
+
+It is precisely the kind of pharmacological shortcut I am arguing against.
 
 Preparation mattered just as much.
 
