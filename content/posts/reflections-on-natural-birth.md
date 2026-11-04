@@ -304,4 +304,4 @@ And I am grateful we get to be this tired for a reason this good.
 
 Watching his mother fight for every single second of his arrival was among the greatest privileges of my life.
 
-The next part is quieter. Staying present. Stay patient… enjoying these moments and reflecting on a time that *everyone* says will pass by in a flash.
+The next part is quieter. Staying present. Stay patient… enjoying these moments and reflecting on a time that will *inevitably* pass by in the blink of an eye.
