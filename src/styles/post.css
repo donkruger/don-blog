@@ -50,10 +50,9 @@
   will-change: transform;
 }
 
-/* Portrait of Ashton sits low in the frame; the shared 40% anchor
-   crops off his face and leaves the collar filling the hero. */
+/* Family cover: keep the three faces above the hero veil. */
 .post-hero__media img[src*="reflections-on-natural-birth"] {
-  object-position: 50% 58%;
+  object-position: 50% 42%;
 }
 
 @media (max-width: 799px) {
@@ -62,7 +61,7 @@
   }
 
   .post-hero__media img[src*="reflections-on-natural-birth"] {
-    object-position: 50% 58%;
+    object-position: 48% 40%;
   }
 }
 
