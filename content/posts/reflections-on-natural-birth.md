@@ -90,14 +90,6 @@ They did not rewrite the birth.
 
 They simply made it possible to stay inside it.
 
-What she did not use is pethidine.
-
-That one is a different category altogether.
-
-It lingers in the system, crosses to the baby, and leaves newborns drowsy at the exact moment they need to be alert.
-
-It is precisely the kind of pharmacological shortcut I am arguing against.
-
 Preparation mattered just as much.
 
 Micky had gone through Birthwise, and that education sat underneath every decision in the room.
@@ -181,6 +173,10 @@ Bypassing that natural rhythm through unnecessary intervention leaves too many w
 There is also the sheer cocktail of drugs pumped into a woman’s body during heavily medicated and surgical deliveries.
 
 Those anaesthetics, synthetic hormones, and heavy painkillers do not stay isolated to the mother; they cross over to the child.
+
+Pethidine is a clear example.
+
+It lingers in the system, crosses to the baby, and is exactly the kind of pharmacological shortcut I am arguing against.
 
 You see it in how many babies come out completely loopy, groggy, and sluggish in their first hours of life, fighting through a chemical fog at the exact moment they are meant to be alert, latching, and bonding with their mothers.
 
