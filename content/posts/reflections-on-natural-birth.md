@@ -82,7 +82,7 @@ I should also be honest about the supportive drugs that were in play.
 
 This was not a story of zero pharmacological help.
 
-Micky used short-lived relief that does not hang around in the baby: laughing gas, and Remifentanil, an opioid that wears off in about one to two minutes and cannot be used once you start pushing.
+Micky used short-lived relief rather than an epidural: laughing gas, pethidine, and Remifentanil, an opioid that wears off in about one to two minutes and cannot be used once you start pushing.
 
 Those tools took the edge off in the hardest stretches without flattening the process the way an epidural does.
 
