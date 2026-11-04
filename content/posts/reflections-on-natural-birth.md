@@ -84,7 +84,7 @@ This was not a story of zero pharmacological help.
 
 Micky used short-lived relief rather than an epidural: laughing gas, and Remifentanil, an opioid that wears off in about one to two minutes and cannot be used once you start pushing.
 
-Those tools took the edge off in the hardest stretches without flattening the process the way an epidural does.
+Those tools took the edge off as the contractions built and grew more painful, without flattening the process the way an epidural does.
 
 They did not rewrite the birth.
 
