@@ -1,8 +1,8 @@
 ---
-title: Reflections on Natural Birth
+title: When Ash Arrived
 slug: reflections-on-natural-birth
 date: "2026-10-31"
-description: A few reflections on Ashton’s arrival, and the courage it took to bring him here.
+description: Watching Michaela bring our son into the world, and what that week taught me.
 thumbnail: /images/posts/reflections-on-natural-birth.jpg
 ogImage: /images/og/reflections-on-natural-birth.jpg
 tags:
