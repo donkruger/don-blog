@@ -100,9 +100,9 @@ We also had two incredible midwives, Belinda and Wikje, beside her.
 
 At the time, I felt they were nothing short of angels standing at the forefront of bringing life into this world the way our bodies evolved to.
 
-Wikje in particular advocated hard for less intervention.
+Wikje and Belinda both supported our decision for less intervention.
 
-She had the knowledge to hold the line when the medical reflex wanted to escalate.
+They had the knowledge to hold the line when the medical reflex wanted to escalate.
 
 At one point, Ashton’s heart rate dipped, and the doctor wanted to take Michaela to theatre for a C-section.
 
@@ -110,9 +110,9 @@ It was a serious moment and a textbook example of how quickly defensive medicine
 
 When you are on the clock in a risk-averse system, surgery is the easiest lever to pull.
 
-But Wikje did not let that moment overwrite the plan.
+But that moment did not overwrite the plan.
 
-She knew what Birthwise and midwifery experience had already taught Micky: a baby’s heart rate dropping during a contraction is normal and expected.
+They knew what Birthwise and midwifery experience had already taught Micky: a baby’s heart rate dropping during a contraction is normal and expected.
 
 What matters is that it recovers afterwards, not that it never dips at all.
 
