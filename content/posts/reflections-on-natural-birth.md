@@ -309,3 +309,11 @@ And I am grateful we get to be this tired for a reason this good.
 Watching his mother fight for every single second of his arrival was among the greatest privileges of my life.
 
 The next part is quieter. Staying present. Stay patient… enjoying these moments and reflecting on a time that will *inevitably* pass by in the blink of an eye.
+
+<figure class="post-figure">
+  <img src="/images/posts/weeping-willow-hatfield.jpg" alt="A weeping willow at sunset over the water near Hatfield" loading="lazy" />
+  <figcaption>
+    <span class="post-figure__caption">The weeping willow near where we live in Hatfield, in the LC de Villiers sports grounds.</span>
+    <span class="post-figure__credit">Photo by <a href="https://www.instagram.com/tribelnation/" rel="noopener noreferrer" target="_blank">@tribelnation</a></span>
+  </figcaption>
+</figure>

@@ -156,6 +156,49 @@
   margin-bottom: 0;
 }
 
+/* Closing photo: same column as the essay, but a quiet beat after the prose. */
+.post-figure {
+  margin: var(--space-xl) 0 0;
+  padding: 0;
+}
+
+.post-figure img {
+  width: 100%;
+  border-radius: var(--radius);
+}
+
+.post-figure figcaption {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  margin-top: var(--space-sm);
+}
+
+.post-figure__caption {
+  color: var(--color-muted);
+  font-size: 0.92rem;
+  line-height: 1.5;
+}
+
+.post-figure__credit {
+  color: var(--color-muted);
+  font-family: var(--font-ui);
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+}
+
+.post-figure__credit a {
+  text-decoration: none;
+  border-bottom: 1px solid var(--color-line);
+  padding-bottom: 0.1rem;
+}
+
+.post-figure__credit a:hover {
+  color: var(--color-sage);
+  border-bottom-color: var(--color-sage);
+}
+
 .post-nav {
   max-width: var(--measure);
   margin: 0 auto;
