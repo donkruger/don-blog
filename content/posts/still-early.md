@@ -34,7 +34,7 @@ More than that. Deliberating...
 
 UI, UX, UI, UX - product product product. Terms I obviously hear a lot.
 
-I think I can comfortably (and somewhat controversially) say I absolutely do not agree with how often people say beauty is subjective — least of all when it comes to UI.
+I think I can comfortably (and somewhat controversially) say I absolutely do not agree with how often people say beauty is subjective... least of all when it comes to UI.
 
 I think beauty is predominantly objective. Beauty is structure (or a considered lack of it). Fractals. Pattern. The things we keep finding ourselves drawn to.
 
