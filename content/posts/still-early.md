@@ -12,7 +12,7 @@ tags:
 
 I recently realised I have friends and family who don’t really know all that much about my working life.
 
-I find myself conveying bits and pieces, usually in passing — mainly explaining what my title as Head of Platform is all about and all the remark-worthy shenanigans we’ve been up to.
+I find myself conveying bits and pieces, usually in passing. mainly explaining what my title as Head of Platform is all about and all the remark-worthy shenanigans we’ve been up to.
 
 I think this blog is also an opportunity to share what a year it has been in my professional life through the lens of what I hope are a few relatable reflections, and shining some light on the achievements that our team has worked hard on in 2026.
 
