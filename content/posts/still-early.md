@@ -64,7 +64,7 @@ Someone looking for life insurance should not have to guess what “EasyProtect�
 
 It sounds painfully obvious when you write it out like that. Sometimes putting the word Easy in front of something doesn’t always make it easier to understand.
 
-Good. That was kind of the point.
+So I think that has inadvertently become one of the many wins in the rebrand.
 
 We are remembering who we are: a business pioneering a super investment app, a wealth-building tool for South Africans, and in due course a global audience.
 
