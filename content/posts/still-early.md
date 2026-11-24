@@ -208,4 +208,4 @@ For now, though, I’m starting to focus my sights on spending time with Ashton 
 
 So that we can come back to 2027 with a bang.
 
-Five years in, and I must say I feel like this is just the beginning for EasyEquities.
+Five years in, and I must say, with the greatest level of sincerity, I feel like this is just the beginning for EasyEquities.
