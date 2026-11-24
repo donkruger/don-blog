@@ -58,7 +58,9 @@ Then they add coordination for the coordination.
 
 Eventually, a good idea needs to travel through so many meetings, handovers and permission gates that the original problem has changed before the solution arrives.
 
-In a guest lecture on agile work, I spoke about the complexity hiding inside collaboration.
+In [my guest lecture on Agile work at the University of Pretoria earlier this year](https://youtu.be/8TjvGYNMpTY), I spoke about the complexity hiding inside collaboration.
+
+One of my former professors had kindly invited me back to present to his Honours class. It was a privilege (and slightly surreal) to stand at the front of a room I had once known as a student.
 
 Ten people have 45 possible one-to-one relationships. One hundred people have 4,950.
 
