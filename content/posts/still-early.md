@@ -72,7 +72,7 @@ We are remembering who we are: a business pioneering a super investment app, a w
 
 I spend a fair amount of time talking to people who were never really taught about finance.
 
-Every now and then somebody compares investing to gambling.
+And every now and then somebody compares investing to gambling.
 
 I can see how the two get conflated from a distance. If all you notice is a phone screen and a moving number, they can look uncomfortably similar.
 
