@@ -2,7 +2,7 @@
 title: Still Early
 slug: still-early
 date: "2026-11-24"
-description: Why the new Easy is more than a rebrand, and why the numbers and the way we built it make me more bullish than ever.
+description: My 5 years at EasyEquities and why I’m more bullish than ever.
 thumbnail: /images/posts/still-early.webp
 ogImage: /images/og/still-early.jpg
 tags:
@@ -18,7 +18,9 @@ That is fine.
 
 Change has a way of making everyone a design critic.
 
-I have worked close enough to this business, its clients and its technology to know where the difficult parts live.
+I have spent five years inside this business, close to its clients and its technology.
+
+Long enough to know where the difficult parts live.
 
 And I have never been more bullish on EasyEquities.
 
