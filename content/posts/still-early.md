@@ -14,11 +14,11 @@ The new Easy went live this morning.
 
 My feed has been a mixture of compliments, fair questions, bug reports and the occasional person who has decided a new font marks the end of civilisation.
 
-That is fine.
+That is probably healthy.
 
 Change has a way of making everyone a design critic.
 
-I have spent five years inside this business, close to its clients and its technology.
+I have spent five years inside this business.
 
 Long enough to know where the difficult parts live.
 
@@ -26,31 +26,33 @@ And I have never been more bullish on EasyEquities.
 
 (I mean bullish on the company, the mission and our ability to execute. This is not a nudge to buy a share.)
 
-## This is not lipstick
+## What actually changed
 
 It would be easy to look at the new colour, typography and illustration system and call this a rebrand.
 
 It is one, obviously.
 
-But that description misses the more interesting thing.
-
-The new look reached twelve websites, a rebuilt support portal and every app in one coordinated launch. Teams across South Africa, Australia and the Philippines worked through the night to bring it over the line.
-
 EasyEquities, EasyCrypto, EasyProperties, EasyCredit and EasyProtect now feel like parts of the same universe.
 
-That coherence matters.
+The app feels more cohesive and will remain familiar.
 
-The Telescope team’s philosophy behind it is simple and powerful: clear in what it shows, warm in how it feels and unmistakably Easy.
+That distinction matters.
 
-Of course, shipping a large change does not mean every edge is perfect.
+We have reskinned existing journeys. We have not suddenly created a collection of new ones.
 
-There will be bugs. There will be places where the old muscle memory was faster. There will be good feedback we should act on.
+The Telescope team’s philosophy behind the work is simple and powerful: clear in what it shows, warm in how it feels and unmistakably Easy.
 
-A visual refresh also does not magically dissolve every piece of technical or organisational complexity behind it.
+That thinking reached twelve websites, a rebuilt support portal and every app in one coordinated launch. Teams across South Africa, Australia and the Philippines worked through the night to bring it over the line.
 
-But what shipped is visible evidence of something deeper: we have changed how we work.
+There will be rough edges. Some feedback will be useful. Some of it will just be a reaction to something unfamiliar.
 
-## We removed our own bottlenecks
+We should listen carefully to the first kind and avoid building strategy around the second.
+
+If this were only a new skin, I would not be writing about it.
+
+The more interesting part is what the launch says about how we are learning to work.
+
+## The harder change
 
 As companies grow, they tend to add coordination.
 
@@ -60,134 +62,66 @@ Eventually, a good idea needs to travel through so many meetings, handovers and 
 
 In [my guest lecture on Agile work at the University of Pretoria earlier this year](https://youtu.be/8TjvGYNMpTY), I spoke about the complexity hiding inside collaboration.
 
-One of my former professors had kindly invited me back to present to his Honours class. It was a privilege (and slightly surreal) to stand at the front of a room I had once known as a student.
+One of my former professors had invited me back to present to his Honours class. It was a privilege (and slightly surreal) to stand at the front of a room I had once known as a student.
 
 Ten people have 45 possible one-to-one relationships. One hundred people have 4,950.
 
-(That does not mean everyone should speak to everyone else. It means complexity grows much faster than the headcount on the org chart suggests.)
-
-This is why scaling a company is not merely a matter of hiring more people.
-
-You have to keep redesigning how decisions move.
+The point is not that everyone should speak to everyone else. It is that complexity grows much faster than the headcount suggests.
 
 To me, agile has never been about stand-ups, sticky notes or a religion built around two-week sprints.
 
 It is about shortening the distance between a signal and a useful response.
 
-A client tells us where they got stuck. The people closest to the problem understand it, decide and improve it without waiting in a long queue for institutional permission.
+A client tells us where they got stuck. The people closest to the problem should be able to understand it and improve it without waiting in a long queue for institutional permission.
 
-Most companies protect the machinery they built on the way up.
+Five years inside Easy has shown me that some controls are necessary (we look after people’s money, after all).
 
-We have started dismantling the parts of ours that became unnecessary bottlenecks.
+But necessary controls and unnecessary bottlenecks are not the same thing.
 
-That is incredibly difficult to do (especially when those bottlenecks once helped you succeed).
+We are getting better at telling the difference.
 
-I sent Luc a note after the launch because the Telescope team deserves recognition for more than making something beautiful.
+This launch brought together Telescope’s design discipline, our teams’ knowledge and AI-assisted building and testing. It required many capable people to move in the same direction without every decision travelling through the same narrow doorway.
 
-The combination of their design discipline, our teams’ domain knowledge and AI-assisted building and testing unlocked a different pace.
+That does not mean we have solved organisational complexity.
 
-It gave many capable people a common system within which to move quickly.
+It does mean we have started dismantling some of our own unnecessary bottlenecks.
 
-That is the part I think most companies never achieve.
+## Three years
 
-They buy new tools but preserve the old constraints.
+My first academic path was Investment Management, so the word “bullish” still needs a scoreboard behind it.
 
-We changed the constraints.
+One comparison in [Charles’ FY2026 letter](https://www.purplegroup.co.za/results/full_results/2026/31%20August%202026%20Full%20Results.pdf) says enough.
 
-## The numbers deserve more than a glance
+Three years ago, Easy Group spent R241 million to earn R238 million and lost R44 million.
 
-My first academic path was Investment Management, so I cannot use the word “bullish” and then hide entirely behind culture and aesthetics.
+This year, it spent R328 million to earn R516 million and made R161 million.
 
-The numbers matter.
+As Charles put it, we did not cut our way there. We served a great many more people for not many more rand.
 
-According to Purple Group’s [FY2026 annual report](https://www.purplegroup.co.za/results/full_results/2026/31%20August%202026%20Full%20Results.pdf), Easy Group closed the year with 1,316,123 active clients (up 14.8%) and R107.2 billion in client assets (up 32.8%).
+That is a cleaner story than me throwing another dozen ratios at you.
 
-Retail inflows reached R16.8 billion, up 51.1%.
+## The next twelve months
 
-And 237,074 people funded an account for the first time during the year.
+This is just the beginning.
 
-That last number deserves a pause.
+The first win is coherence. The app looks and feels more like one Easy, while the journeys remain familiar to the people who use them.
 
-Nearly a quarter of a million people did not merely register or download an app. They crossed the line into investing.
+The next round of big wins comes over the next twelve months of development.
 
-Easy Group revenue grew 14.6% to R515.9 million while operating expenses grew 8.2%.
+That is when the new foundations start helping us create better journeys, remove more friction and connect parts of the Easy universe that have historically felt further apart than they should.
 
-Profit before tax grew 49.4% to R160.5 million.
+The most exciting changes will not be the colours.
 
-That spread is the standout.
+They will be what those foundations allow us to build next.
 
-Revenue growing faster than the cost base is operating leverage beginning to show itself. Profit then growing much faster than revenue is what you would hope to see from a platform business reaching greater scale.
+Working for EasyEquities has been an incredible privilege thus far.
 
-The cost to serve an active retail client fell from R175 to R165.
+I am grateful to be part of a team that continues to challenge me honestly. Good teams do that. They make you defend your thinking, admit when you are wrong and keep raising the standard of what you believe is possible.
 
-In other words, the platform served more people, held substantially more client assets and became cheaper to operate per active retail client.
+I am not bullish because the app looks better today (although it does).
 
-Zoom out three years and the shape becomes clearer.
+I am bullish because the numbers show what the last three years produced, the launch shows that we can still change at scale, and the next twelve months give us the opportunity to turn that new pace into genuinely better experiences.
 
-Easy Group revenue moved from R238 million in FY2023 to R516 million in FY2026. Client assets moved from R46.6 billion to R107.2 billion. Profit before tax moved from a R44 million loss to a R161 million profit.
-
-That is not a small base enjoying one lucky comparison.
-
-It is a business crossing an important part of its scaling curve.
-
-There is nuance, obviously.
-
-Client assets can rise because of both net inflows and market performance. A strong year does not promise a straight line forever. More clients also create more support demand, more regulatory responsibility and more pressure on the platform.
-
-Scale is not only a reward.
-
-It is an obligation.
-
-But the combination is difficult to ignore: more active clients, much stronger inflows, expanding assets, improving unit economics and an organisation becoming faster at changing itself.
-
-That is why I am bullish.
-
-## Confidence without deafness
-
-There will be noise around a change this visible.
-
-Some of it will contain useful truth. Some of it will simply be a reaction to unfamiliarity.
-
-We should not confuse the loudest comment with the most representative one.
-
-We should also not confuse positive comments with proof that the work succeeded.
-
-The proof will be in the behaviour.
-
-Can people find what they need faster? Do pages load better on slow connections? Can a first-time investor understand the choice in front of them? Can support resolve a problem sooner? Do more people feel able to grow and protect their wealth?
-
-That is where the data must take over from opinion.
-
-We can stand behind the direction and remain open to feedback.
-
-Those positions are not opposites.
-
-Confidence without curiosity becomes arrogance. Curiosity without conviction becomes paralysis.
-
-The useful place is somewhere in the middle: listen carefully, challenge ourselves honestly, change what makes sense and give the bigger change enough space to do what it was designed to do.
-
-## Still early
-
-The thing I am proudest of is not that Easy looks different today.
-
-It is that we proved we can change a living, regulated platform at scale without losing the reason it exists.
-
-Twelve websites. Multiple apps. A new support experience. Teams spread across continents. More than 1.3 million active clients carrying on with the important business of building their financial futures.
-
-That is not lipstick.
-
-It is a company learning how to evolve at the speed its mission requires.
-
-The new look is live.
-
-The comments are coming in.
-
-We will listen. We will learn. We will use the data. We will fix what needs fixing.
-
-But we should also allow ourselves a moment to recognise what has been built.
-
-Twelve years in, we have achieved something rare: we have become bigger without accepting that bigger must mean slower.
-
-This is just the start.
+Five years in, I still feel like I arrived early.
 
 Still early.
