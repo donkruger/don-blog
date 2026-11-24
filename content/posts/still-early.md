@@ -178,6 +178,12 @@ The bit I’m itching for is the next twelve months.
 
 Better journeys. Fewer dead ends between products. Less of that feeling that you have somehow wandered into a different Easy.
 
+It has also been a long year.
+
+A great many people worked hard. Some were recognised for their efforts. Others, perhaps, less so.
+
+But ultimately we came together as a team and delivered value. That still matters more to me than most scoreboards.
+
 Working for EasyEquities has been an incredible privilege thus far.
 
 I’m grateful to be part of a team that challenges me honestly. I don’t always enjoy that in the moment (who does), but I’ve learned an enormous amount from it.
@@ -187,5 +193,9 @@ Five years ago I joined a very different business. The numbers above say as much
 Now we have to turn that pace into better experiences for the people who trust us with their money.
 
 That is why I’m bullish.
+
+For now, though, I’m starting to focus my sights on spending time with Ashton and resting well over the December holidays.
+
+So that we can come back to 2027 with a bang.
 
 Five years in, and I must say I feel like this is just the beginning for EasyEquities.
