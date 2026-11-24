@@ -18,7 +18,7 @@ I do have friends and family who don’t really know much about my working life.
 
 I try to convey bits and pieces, usually in passing, but most of it is difficult to explain from the outside.
 
-I think this blog is also an opportunity to share what a year it has been in my professional life.
+I think this blog is also an opportunity to share what a year it has been in my professional life through the lens of what I hope are a few relatable reflections.
 
 Five years in, I feel I have worn the badge long enough to write about that more personally.
 
