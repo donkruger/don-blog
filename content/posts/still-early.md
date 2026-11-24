@@ -62,7 +62,7 @@ That is partly visual. The bit I care about more is that we’re remembering a v
 
 Someone looking for life insurance should not have to guess what “EasyProtect” does. Someone looking for a home loan should be able to find “Get a home loan” without knowing that EasyMortgages exists.
 
-It sounds painfully obvious when you write it out like that.
+It sounds painfully obvious when you write it out like that. Sometimes putting the word Easy in front of something doesn’t always make it easier to understand.
 
 Good. That was kind of the point.
 
