@@ -63,6 +63,10 @@
   .post-hero__media img[src*="reflections-on-natural-birth"] {
     object-position: 48% 40%;
   }
+
+  .post-hero__media img[src*="still-early"] {
+    object-position: 62% 48%;
+  }
 }
 
 .post-hero__veil {

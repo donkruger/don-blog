@@ -36,6 +36,12 @@
   object-position: 50% 42%;
 }
 
+@media (max-width: 799px) {
+  .home-hero__atmosphere img[src*="still-early"] {
+    object-position: 80% 40%;
+  }
+}
+
 .home-hero__veil {
   position: absolute;
   inset: 0;
