@@ -1,5 +1,5 @@
 ---
-title: Still Feels Early
+title: EasyEquities, jou lekker ding!
 slug: still-early
 date: "2026-11-24"
 description: reflecting on my 5th year at EasyEquities
