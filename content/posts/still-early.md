@@ -180,9 +180,7 @@ Better journeys. Fewer dead ends between products. Less of that feeling that you
 
 It has also been a long year.
 
-A great many people worked hard. Some were formally recognised for their efforts. Others who put in great work were not, and still decided to keep holding their heads high.
-
-But ultimately we came together as a team and delivered value. That still matters more to me than most scoreboards.
+A great many people worked hard, and ultimately we came together as a team and delivered value.
 
 Working for EasyEquities has been an incredible privilege thus far.
 
