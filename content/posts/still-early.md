@@ -70,7 +70,7 @@ We are remembering who we are: a business pioneering a super investment app, a w
 
 I spend a fair amount of time talking to people who were never really taught about finance.
 
-Those conversations are rarely about indifference. They are usually about trying to make sense of something that was never properly explained — and reaching for the nearest comparison that feels true.
+Those conversations are rarely about indifference. They are usually about trying to make sense of something that was never properly explained... and I think commonly reaching for the nearest comparison that feels true.
 
 And every now and then somebody compares investing to gambling.
 
