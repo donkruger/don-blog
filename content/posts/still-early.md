@@ -10,15 +10,9 @@ tags:
   - work
 ---
 
-When you stay with a company for long enough (and care deeply for long enough), your job can quickly become a vocation if you play your cards right.
+I recently realised I have friends and family who don’t really know all that much about my working life.
 
-You stop caring only about the work on your desk and start caring about the institution itself. How it moves. What it protects. What it could become.
-
-I do have friends and family who don’t really know much about my working life.
-
-I try to convey bits and pieces, usually in passing, but most of it is difficult to explain from the outside.
-
-I also often (and frustratingly so) make the mistake of explaining a challenge, obstacle or difficulty and anchoring a small opportunity to create perspective with negativity bias…
+I find myself conveying bits and pieces, usually in passing — mainly explaining what my title as Head of Platform is all about.
 
 In a nutshell, I’m still working on my career-update elevator pitch.
 
