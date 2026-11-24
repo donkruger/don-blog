@@ -14,6 +14,12 @@ When you stay with a company for long enough (and care deeply for long enough), 
 
 You stop caring only about the work on your desk and start caring about the institution itself. How it moves. What it protects. What it could become.
 
+I do have friends and family who don’t really know much about my working life.
+
+I try to convey bits and pieces, usually in passing, but most of it is difficult to explain from the outside.
+
+I think this blog is also an opportunity to share what a year it has been in my professional life.
+
 Five years in, I feel I have worn the badge long enough to write about that more personally.
 
 (I am not speaking for EasyEquities here. I am speaking as someone who has had the privilege of helping to build a part of it.)
@@ -38,7 +44,7 @@ I won’t get into the golden ratio and my geometry journal here. That is a blog
 
 My point is simply that the new UI has that quality. The hierarchy settles. The colours hold together. A great many tiny decisions line up, and you can feel the order of it before you understand why.
 
-And I’ve never been more bullish on EasyEquities.
+So I’ve decided to share some thoughts on why I’ve never been more bullish on EasyEquities.
 
 (Bullish on the company, the mission and our ability to execute. This is not a nudge to buy our shares.)
 
@@ -70,9 +76,9 @@ Maybe this is just my own observation, but there is something deeply bleak about
 
 That bothers me.
 
-EasyEquities has to stand for something very different.
+EasyEquities stands for something very different.
 
-Investing, at least to me, is about ownership, patience and compounding. The point is to build wealth over time. There is an entire academic discipline and professional industry behind it (my first academic path was Investment Management, so I probably care about this distinction more than most).
+Investing, at least to me, is about ownership, patience and compounding. The point is to build wealth over time. There is an entire academic discipline and professional industry behind it (my first academic path was Investment Management, so bear with me as I lightly jump into some of the numbers).
 
 Part of our job is making investing accessible and then helping people understand what they are participating in (and why time matters).
 
@@ -94,15 +100,15 @@ I don’t know how directly that part of her life touched this launch. I just lo
 
 That thinking reached twelve websites, a rebuilt support portal and every app in one coordinated launch. Teams across South Africa, Australia and the Philippines worked through the night to bring it over the line.
 
-There will be rough edges. There already are.
+The teams have already polished the majority of the rough edges in a matter of hours. Unprecedented, and I continue to be impressed.
 
-Some feedback will help us improve and some of it will simply be a reaction to something unfamiliar. We’ll have to be grown-ups about telling the difference.
+Some feedback will help us improve and some of it will simply be a reaction to something unfamiliar. A big part of the fun is figuring out how we continue from here.
 
-Our job is to listen closely, improve upon the niggles and give people time to find their bearings.
+Our job is to listen closely (especially to the data), improve upon the niggles and continue to empower the sensitive act of investing.
 
 What excites me is that we’re unlocking an absolutely insane cadence in an environment of high complexity (it’s really not as easy as it looks from the outside).
 
-A roadmap that used to look like three years can suddenly start looking like one.
+A roadmap that used to look like three years can suddenly start looking like a few months.
 
 ## Why Telescope matters
 
