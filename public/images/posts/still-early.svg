@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">The next shape of Easy</title>
+  <desc id="desc">An EasyGroup-inspired abstract illustration with warm colours, concentric circles and overlapping mobile screens.</desc>
+  <rect width="1600" height="1000" fill="#fdfcf9"/>
+
+  <defs>
+    <pattern id="dots" width="34" height="34" patternUnits="userSpaceOnUse">
+      <circle cx="4" cy="4" r="3" fill="#221046" opacity="0.13"/>
+    </pattern>
+  </defs>
+
+  <rect x="82" y="78" width="310" height="174" rx="28" fill="url(#dots)"/>
+  <circle cx="225" cy="172" r="92" fill="none" stroke="#ed1747" stroke-width="18"/>
+  <circle cx="225" cy="172" r="66" fill="none" stroke="#ffce00" stroke-width="18"/>
+  <circle cx="225" cy="172" r="40" fill="none" stroke="#803fd8" stroke-width="18"/>
+  <circle cx="225" cy="172" r="14" fill="#01d0ca"/>
+
+  <circle cx="1538" cy="-42" r="280" fill="none" stroke="#ffce00" stroke-width="116"/>
+  <path d="M1238 -36 C1128 145 1326 182 1248 332 C1178 466 1352 536 1550 414" fill="none" stroke="#221046" stroke-width="12" stroke-linecap="round"/>
+  <rect x="1450" y="185" width="46" height="46" fill="#01d0ca"/>
+
+  <g transform="translate(930 166) rotate(8)">
+    <rect x="-214" y="-52" width="440" height="650" rx="66" fill="#ffce00"/>
+    <rect x="-116" y="-14" width="440" height="650" rx="66" fill="#01d0ca"/>
+    <rect x="-18" y="24" width="440" height="650" rx="66" fill="#fdfcf9" stroke="#221046" stroke-width="17"/>
+    <rect x="124" y="60" width="154" height="20" rx="10" fill="#221046"/>
+    <circle cx="202" cy="326" r="132" fill="#ed1747"/>
+    <rect x="124" y="628" width="154" height="20" rx="10" fill="#221046"/>
+  </g>
+
+  <g stroke="#221046" stroke-width="10" stroke-linecap="round">
+    <path d="M1392 162 l-72 -20"/>
+    <path d="M1384 198 l-78 8"/>
+    <path d="M1397 232 l-64 38"/>
+    <path d="M1420 258 l-34 68"/>
+  </g>
+</svg>
