@@ -2,7 +2,7 @@
 title: Still Early
 slug: still-early
 date: "2026-11-24"
-description: My 5 years at EasyEquities and why I’m more bullish than ever.
+description: reflecting on my 5th year at EasyEquities
 thumbnail: /images/posts/still-early.webp
 ogImage: /images/og/still-early.jpg
 tags:
