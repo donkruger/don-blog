@@ -94,7 +94,7 @@ We’ve reskinned existing journeys. We haven’t suddenly created a collection 
 
 Our Telescope team’s philosophy behind the work is simple and powerful: clear in what it shows, warm in how it feels and unmistakably Easy.
 
-I only recently discovered that Althea, Telescope’s Head of Product, is also an artist. Her work completely blew me away.
+I only recently discovered that Althea, Telescope’s Head of Product, is also an artist. Her work completely blew me away when I got curious enough to take a gander at [her Instagram](https://www.instagram.com/altheaschutte/).
 
 In 2026, raw coding ability on its own no longer impresses me the way it once did. Code is becoming abundant.
 
