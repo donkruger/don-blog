@@ -86,7 +86,7 @@ Investing, at least to me, is about ownership, patience and compounding. The poi
 
 That long-run framing is one of the things my professors at university drilled into me early, and it has stayed.
 
-It is not always a cheerful thing to write about heading into year-end with a little blood in the markets — especially in US tech — and with plenty of portfolios feeling the sting. Mine included.
+It is not always a cheerful thing to write about heading into year-end with a little blood in the markets (especially in US tech) and with plenty of portfolios feeling the sting. Mine included.
 
 If you are on that investment journey and the recent volatility has hurt, I hope it helps a little to know the feeling is shared. My own investing happens through EasyEquities itself, which makes the whole thing oddly intimate. I help build the app, and I live inside it as a customer.
 
