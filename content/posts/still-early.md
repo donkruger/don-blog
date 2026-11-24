@@ -42,7 +42,7 @@ There is structure hiding underneath beauty. Ratios. Balance. Mathematics.
 
 I won’t get into the golden ratio and my geometry journal here. That is a blog post for another time.
 
-My point is simply that the new UI has that quality. The hierarchy settles. The colours hold together. A great many tiny decisions line up, and you can feel the order of it before you understand why.
+My point is simply that the new UI has that quality. The refinements just make sense. The colours hold together. A great many tiny decisions line up, and you can feel the order of it before you understand why.
 
 So I’ve decided to share some thoughts on why I’ve never been more bullish on EasyEquities.
 
@@ -124,7 +124,7 @@ A team of Australian pioneers with a serious drive to succeed.
 
 I’ve always said that where there’s a will, there’s a way. And this team has a very strong will.
 
-EasyEquities had been Telescope’s first enterprise partner. We had worked alongside the team for two years, put AI Baskets in front of real clients and watched the technology perform inside a regulated investment platform.
+There was obviously a little bit of rapport that was built between us and Telescope before the acquisition, but Charles saw something well beyond the tech stack that others didn’t - a team of people that can figure sh!t out.
 
 As [Charles wrote when the deal was announced](https://blogs.easyequities.co.za/the-savage-take-making-investment-intelligence-available-to-everyone), it was a conviction tested through product.
 
