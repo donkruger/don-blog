@@ -82,6 +82,18 @@ EasyEquities stands for something very different.
 
 Investing, at least to me, is about ownership, patience and compounding. The point is to build wealth over time. There is an entire academic discipline and professional industry behind it (my first academic path was Investment Management, so bear with me as I lightly jump into some of the numbers).
 
+That long-run framing is one of the things my professors at university drilled into me early, and it has stayed.
+
+It is not always a cheerful thing to write about heading into year-end with a little blood in the markets — especially in US tech — and with plenty of portfolios feeling the sting. Mine included.
+
+If you are on that investment journey and the recent volatility has hurt, I hope it helps a little to know the feeling is shared. My own investing happens through EasyEquities itself, which makes the whole thing oddly intimate. I help build the app, and I live inside it as a customer.
+
+The lesson was never that markets only go up. It was that time is the quiet variable that does most of the work, and that compounding only starts to look like magic on the scale of decades.
+
+That is also how I tend to think about EasyEquities and its people: as pillars of an institution that should still be standing in South Africa, and beyond, long after any single year of market weather. We have very good people. That showed up again recently in our staff awards, and I am glad we take the time to acknowledge hard work properly.
+
+There is almost something sacred about building in fintech with that horizon in mind. People are here on the scale of decades, because that is really when compound interest starts to shine.
+
 Part of our job is making investing accessible and then helping people understand what they are participating in (and why time matters).
 
 The app now feels more cohesive while remaining familiar.
