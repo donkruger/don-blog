@@ -22,9 +22,21 @@ The new EasyEquities went live this morning.
 
 Our feed has been a mixture of compliments, questions, bug reports and the occasional person who has decided a new font marks the end of civilisation.
 
-That is probably healthy.
+With that said though, I think it is receiving an overwhelmingly positive and well-deserved response.
 
-Change has a way of making everyone a design critic.
+Sure, these things have a way of making everyone a design critic - but our new UI looks genuinely good.
+
+I also don’t agree with how often people say beauty is subjective.
+
+I think beauty is predominantly objective.
+
+Personal taste moves us around at the edges, obviously, but humans reach consensus on what is beautiful far more often than that little phrase allows. [Researchers studying facial attractiveness found surprisingly high agreement across ten different cultures](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0225549), and the wider body of work keeps returning to proportion, symmetry and how fluently our brains can process what we see.
+
+There is structure hiding underneath beauty. Ratios. Balance. Mathematics.
+
+I won’t get into the golden ratio and my geometry journal here. That is a blog post for another time.
+
+My point is simply that the new UI has that quality. The hierarchy settles. The colours hold together. A great many tiny decisions line up, and you can feel the order of it before you understand why.
 
 And I’ve never been more bullish on EasyEquities.
 
@@ -71,6 +83,14 @@ The app now feels more cohesive while remaining familiar.
 We’ve reskinned existing journeys. We haven’t suddenly created a collection of new ones.
 
 Our Telescope team’s philosophy behind the work is simple and powerful: clear in what it shows, warm in how it feels and unmistakably Easy.
+
+I only recently discovered that Althea, Telescope’s Head of Product, is also an artist. Her work completely blew me away.
+
+In 2026, raw coding ability on its own no longer impresses me the way it once did. Code is becoming abundant.
+
+Althea’s art stopped me in my tracks. You can feel years of seeing and practising sitting behind it.
+
+I don’t know how directly that part of her life touched this launch. I just love knowing that this kind of eye exists inside the team. It speaks to the range of people now working together across product, engineering and design.
 
 That thinking reached twelve websites, a rebuilt support portal and every app in one coordinated launch. Teams across South Africa, Australia and the Philippines worked through the night to bring it over the line.
 
