@@ -36,9 +36,9 @@ With that said though, I think it is receiving an overwhelmingly positive and we
 
 Sure, these things have a way of making everyone a design critic - but our new UI looks genuinely good.
 
-I also don’t agree with how often people say beauty is subjective.
+The realm of UI/UX often gets me thinking. More than that. Deliberating. UI, UX, UI, UX - product product product. Terms I obviously hear a lot. I think I can comfortably (and somewhat controversially) say I absolutely do not agree with how often people say beauty is subjective.
 
-I think beauty is predominantly objective.
+I think beauty is predominantly objective. Beauty is structure (or a considered lack of it). Fractals. Pattern. The things we keep finding ourselves drawn to.
 
 Personal taste moves us around at the edges, obviously, but humans reach consensus on what is beautiful far more often than that little phrase allows. [Researchers studying facial attractiveness found surprisingly high agreement across ten different cultures](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0225549), and the wider body of work keeps returning to proportion, symmetry and how fluently our brains can process what we see.
 
