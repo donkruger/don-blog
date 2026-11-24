@@ -102,7 +102,7 @@ The app now feels more cohesive while remaining familiar.
 
 …and I think that is particularly important (speaking from experience).
 
-We’ve reskinned existing journeys. We haven’t suddenly created a collection of new ones.
+We’ve reskinned existing journeys. We haven’t suddenly created a collection of new ones. A lot of good UI/UX thinking was already in place — set down by teams who were hard at work long before Telescope arrived — and this launch built on that foundation rather than starting from scratch.
 
 Our Telescope team’s philosophy behind the work is simple and powerful: clear in what it shows, warm in how it feels and unmistakably Easy.
 
