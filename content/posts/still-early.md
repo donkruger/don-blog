@@ -16,7 +16,7 @@ I find myself conveying bits and pieces, usually in passing — mainly explainin
 
 In a nutshell, I’m still working on my career-update elevator pitch.
 
-I think this blog is also an opportunity to share what a year it has been in my professional life through the lens of what I hope are a few relatable reflections.
+I think this blog is also an opportunity to share what a year it has been in my professional life through the lens of what I hope are a few relatable reflections, and shining some light on the achievements that our team has worked hard on in 2026.
 
 Five years in, I feel I have worn the badge long enough to write about that more personally.
 
