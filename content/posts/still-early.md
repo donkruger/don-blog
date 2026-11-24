@@ -40,7 +40,7 @@ EasyEquities, EasyCrypto, EasyProperties, EasyCredit and EasyProtect now feel li
 
 That coherence matters.
 
-You can see the thinking behind it in [the Easy brand evolution](https://telescope.co/easy-group/brand/evolution/): clear in what it shows, warm in how it feels and unmistakably Easy.
+The Telescope team’s philosophy behind it is simple and powerful: clear in what it shows, warm in how it feels and unmistakably Easy.
 
 Of course, shipping a large change does not mean every edge is perfect.
 
