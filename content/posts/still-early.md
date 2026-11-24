@@ -94,7 +94,7 @@ The lesson was never that markets only go up. It was that time is the quiet vari
 
 That is also how I tend to think about EasyEquities and its people: as pillars of an institution that should still be standing in South Africa, and beyond, long after any single year of market weather. We have very good people. That showed up again recently in our staff awards, and I am glad we take the time to acknowledge hard work properly.
 
-There is almost something sacred about building in fintech with that horizon in mind. People are here on the scale of decades, because that is really when compound interest starts to shine.
+There is almost something sacred about building in fintech with that horizon in mind. People are here on the scale of decades, because that is really when compound interest starts to shine. We sometimes joke about being “lifers” in the office — and for a product built on compounding, half the joke is that it is not really a joke.
 
 Part of our job is making investing accessible and then helping people understand what they are participating in (and why time matters).
 
