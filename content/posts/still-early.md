@@ -10,21 +10,31 @@ tags:
   - work
 ---
 
-The new Easy went live this morning.
+Most of what I write about EasyEquities comes wrapped in research and too many browser tabs.
 
-My feed has been a mixture of compliments, fair questions, bug reports and the occasional person who has decided a new font marks the end of civilisation.
+It is where I get to dabble in something interesting when I find the time.
+
+I usually keep the personal part in meeting rooms.
+
+But when you stay with a company for long enough, the line between job and vocation starts to blur.
+
+You stop caring only about the work on your desk and start caring about the institution itself. How it moves. What it protects. What it could become.
+
+Five years in, I feel I have worn the badge long enough to write about that more personally.
+
+(I am not speaking for EasyEquities here. I am speaking as someone who has had the privilege of helping to build a small part of it.)
+
+The new EasyEquities went live this morning.
+
+Our feed has been a mixture of compliments, questions, bug reports and the occasional person who has decided a new font marks the end of civilisation.
 
 That is probably healthy.
 
 Change has a way of making everyone a design critic.
 
-I have spent five years inside this business.
-
-Long enough to know where the difficult parts live.
-
 And I have never been more bullish on EasyEquities.
 
-(I mean bullish on the company, the mission and our ability to execute. This is not a nudge to buy a share.)
+(Bullish on the company, the mission and our ability to execute. This is not a nudge to buy a share.)
 
 ## What actually changed
 
@@ -44,47 +54,43 @@ The Telescope team’s philosophy behind the work is simple and powerful: clear 
 
 That thinking reached twelve websites, a rebuilt support portal and every app in one coordinated launch. Teams across South Africa, Australia and the Philippines worked through the night to bring it over the line.
 
-There will be rough edges. Some feedback will be useful. Some of it will just be a reaction to something unfamiliar.
+There will be rough edges. Some feedback will point us towards things we need to improve. Some of it will simply be a reaction to something unfamiliar.
 
-We should listen carefully to the first kind and avoid building strategy around the second.
+Our job is to listen closely, fix what is broken and give people time to find their bearings.
 
-If this were only a new skin, I would not be writing about it.
+## Why Telescope matters
 
-The more interesting part is what the launch says about how we are learning to work.
+Earlier this year, Charles and the Group made a decision that I suspect we will look back on as pivotal: to acquire Telescope AI.
 
-## The harder change
+This was not a cold procurement made from a pitch deck.
 
-As companies grow, they tend to add coordination.
+EasyEquities had been Telescope’s first enterprise partner. We had worked alongside the team for two years, put AI Baskets in front of real clients and watched the technology perform inside a regulated investment platform.
 
-Then they add coordination for the coordination.
+As [Charles wrote when the deal was announced](https://blogs.easyequities.co.za/the-savage-take-making-investment-intelligence-available-to-everyone), it was a conviction tested through product.
 
-Eventually, a good idea needs to travel through so many meetings, handovers and permission gates that the original problem has changed before the solution arrives.
+The acquisition brought Telescope’s technology into the Group, Luc Pettett into the role of Chief AI Officer and, just as importantly, a team with an outside view of what we had built.
 
-In [my guest lecture on Agile work at the University of Pretoria earlier this year](https://youtu.be/8TjvGYNMpTY), I spoke about the complexity hiding inside collaboration.
+They arrived without the assumptions that naturally collect inside a company over time.
 
-One of my former professors had invited me back to present to his Honours class. It was a privilege (and slightly surreal) to stand at the front of a room I had once known as a student.
+That outside perspective matters because companies naturally become more complicated as they grow.
 
-Ten people have 45 possible one-to-one relationships. One hundred people have 4,950.
+I had spoken about that same problem earlier in the year, when one of my former professors invited me back to the University of Pretoria to give [a guest lecture on Agile work](https://youtu.be/8TjvGYNMpTY) to his Honours class.
 
-The point is not that everyone should speak to everyone else. It is that complexity grows much faster than the headcount suggests.
+It was a privilege (and slightly surreal) to return as a guest to a room I had once known as a student.
 
-To me, agile has never been about stand-ups, sticky notes or a religion built around two-week sprints.
+Complexity grows much faster than the headcount suggests.
 
-It is about shortening the distance between a signal and a useful response.
+Over time, good ideas can end up travelling through so many meetings, handovers and permission gates that the original problem has changed before the solution arrives.
 
-A client tells us where they got stuck. The people closest to the problem should be able to understand it and improve it without waiting in a long queue for institutional permission.
-
-Five years inside Easy has shown me that some controls are necessary (we look after people’s money, after all).
-
-But necessary controls and unnecessary bottlenecks are not the same thing.
-
-We are getting better at telling the difference.
+We look after people’s money, so some controls are essential. But necessary controls and unnecessary bottlenecks are not the same thing.
 
 This launch brought together Telescope’s design discipline, our teams’ knowledge and AI-assisted building and testing. It required many capable people to move in the same direction without every decision travelling through the same narrow doorway.
 
-That does not mean we have solved organisational complexity.
+We have not solved organisational complexity.
 
-It does mean we have started dismantling some of our own unnecessary bottlenecks.
+But we have started dismantling some of our own unnecessary bottlenecks.
+
+That is the part of this launch I find most exciting.
 
 ## Three years
 
@@ -102,17 +108,11 @@ That is a cleaner story than me throwing another dozen ratios at you.
 
 ## The next twelve months
 
-This is just the beginning.
+This launch is a foundation, not the payoff.
 
 The first win is coherence. The app looks and feels more like one Easy, while the journeys remain familiar to the people who use them.
 
-The next round of big wins comes over the next twelve months of development.
-
-That is when the new foundations start helping us create better journeys, remove more friction and connect parts of the Easy universe that have historically felt further apart than they should.
-
-The most exciting changes will not be the colours.
-
-They will be what those foundations allow us to build next.
+Its real value will be measured over the next twelve months in better journeys, less friction and a more connected Easy, not in colours alone.
 
 Working for EasyEquities has been an incredible privilege thus far.
 
@@ -120,8 +120,8 @@ I am grateful to be part of a team that continues to challenge me honestly. Good
 
 I am not bullish because the app looks better today (although it does).
 
-I am bullish because the numbers show what the last three years produced, the launch shows that we can still change at scale, and the next twelve months give us the opportunity to turn that new pace into genuinely better experiences.
+I am bullish because the numbers show what the last three years produced and this launch shows that we can still change at scale.
+
+Now we have to turn that pace into better experiences for the people who trust us with their money.
 
 Five years in, I still feel like I arrived early.
-
-Still early.
