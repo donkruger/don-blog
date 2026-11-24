@@ -184,4 +184,4 @@ Now we have to turn that pace into better experiences for the people who trust u
 
 That is why I’m bullish.
 
-Five years in, I still feel like I arrived early.
+Five years in, and I must say I feel like this is just the beginning for EasyEquities.
