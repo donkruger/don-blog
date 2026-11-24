@@ -148,7 +148,7 @@ This launch brought together Telescope’s design discipline, our teams’ knowl
 
 We’re still working through plenty of organisational complexity (obviously).
 
-Still, this launch proved that we can dismantle some of our own unnecessary bottlenecks.
+Still, this launch proved that we can dismantle some of our own unnecessary bottlenecks - and that’s an achievement that I’m truly admiring - to a certain extent - and there is no easier way to put it - my flabbers are gasted.
 
 ## Three years
 
