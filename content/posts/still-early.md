@@ -2,7 +2,7 @@
 title: EasyEquities, jou lekker ding!
 slug: still-early
 date: "2026-11-24"
-description: reflecting on my 5th year at EasyEquities
+description: reflections on my fifth year at EasyEquities
 thumbnail: /images/posts/still-early.webp
 ogImage: /images/og/still-early.jpg
 tags:
