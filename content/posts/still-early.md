@@ -78,7 +78,7 @@ And every now and then somebody compares investing to gambling.
 
 I can see how the two get conflated from a distance. If all you notice is a phone screen and a moving number, they can look uncomfortably similar.
 
-Side note: is it just me, or do gambling billboards have a sixth sense for neighbourhoods that are already under pressure?
+Side note: is it just me, or do gambling billboards have a sixth sense for neighbourhoods that are already deteriorating?
 
 That bothers me.
 
