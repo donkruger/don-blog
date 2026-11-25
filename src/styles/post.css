@@ -171,6 +171,20 @@
   border-radius: var(--radius);
 }
 
+/* Wide, short golden-ratio strip — brand pastels, little vertical weight. */
+.post-figure--phi {
+  margin: var(--space-lg) 0;
+}
+
+.post-figure--phi img {
+  display: block;
+  width: min(100%, 34rem);
+  max-height: 11.5rem;
+  margin-inline: auto;
+  object-fit: contain;
+  border-radius: 0;
+}
+
 .post-figure figcaption {
   display: flex;
   flex-direction: column;

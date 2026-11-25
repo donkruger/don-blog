@@ -130,7 +130,18 @@ Personal taste moves us around at the edges, obviously, but humans reach consens
 
 There is structure hiding underneath beauty. Ratios. Balance. Mathematics.
 
-I won’t get into the golden ratio and my geometry journal here. That is a blog post for another time.
+<figure class="post-figure post-figure--phi">
+  <img
+    src="/images/posts/golden-ratio.svg"
+    alt="Golden ratio rectangle with a Fibonacci spiral, drawn in Easy brand colours"
+    width="661"
+    height="300"
+    loading="lazy"
+    decoding="async"
+  />
+</figure>
+
+I won’t open the full geometry journal here. That is a blog post for another time.
 
 My point is simply that the new UI has that quality. The refinements just make sense. The colours hold together. A great many tiny decisions line up, and you can feel the order of it before you understand why.
 
