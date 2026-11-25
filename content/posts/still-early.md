@@ -20,7 +20,7 @@ Five years in, I feel I have worn the badge long enough to write about that more
 
 (I am not speaking for EasyEquities here. I am speaking as someone who has had the privilege of helping to build a part of it.)
 
-The new EasyEquities UI went live earlier this week, and there’s quite a bit more to it than meets the eye.
+The new EasyEquities UI went live yesterday, and there’s quite a bit more to it than meets the eye.
 
 Our feed has been a mixture of compliments, questions, bug reports and the occasional person who has decided a new font marks the end of civilisation.
 
