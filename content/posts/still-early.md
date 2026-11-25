@@ -60,7 +60,7 @@ There is new colour, new typography, a new illustration system and the whole thi
 
 EasyEquities, EasyCrypto, EasyProperties, EasyCredit and EasyProtect now feel like parts of the same universe.
 
-That is partly visual. The bit I care about more is that we’re remembering a very simple philosophy: less is (I find increasingly often) more.
+That is partly visual. The bit I care about more is I feel we’ve started embracing a very simple philosophy. less is more.
 
 Someone looking for life insurance should not have to guess what “EasyProtect” does. Someone looking for a home loan should be able to find “Get a home loan” without knowing that EasyMortgages exists.
 
