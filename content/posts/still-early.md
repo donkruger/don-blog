@@ -90,7 +90,7 @@ That long-run framing is one of the things my professors at university drilled i
 
 It is not always a cheerful thing to write about heading into year-end with a little blood in the markets (especially in US tech) and with plenty of portfolios feeling the sting. Mine included.
 
-If you are on that investment journey and the recent volatility has hurt, I hope it helps a little to know the feeling is shared. My own investing happens through EasyEquities itself, which makes the whole thing oddly intimate. I help build the app, and I live inside it as a customer.
+If you are on that investment journey and the recent volatility has hurt, I hope it helps a little to know the feeling is shared. My own investing happens through EasyEquities itself, which makes the whole thing oddly intimate. I help build the app, and my life’s savings live inside it as a customer.
 
 The lesson was never that markets only go up. It was that time is the quiet variable that does most of the work, and that compounding only starts to look like magic on the scale of decades.
 
