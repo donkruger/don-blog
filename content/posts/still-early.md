@@ -140,7 +140,7 @@ A team of Australian pioneers with a serious drive to succeed.
 
 I’ve always said that where there’s a will, there’s a way. And this team has a very strong will.
 
-There was obviously a little bit of rapport that was built between us and Telescope before the acquisition, but Charles saw something well beyond the tech stack that others didn’t - a team of people that can figure sh!t out.
+There was obviously a little bit of rapport that was built between us and Telescope before the acquisition, but Charles saw something well beyond the tech stack that others didn’t - a team of people that can figure sh!t out, with a fresh pair of eyes for good product.
 
 As [Charles wrote when the deal was announced](https://blogs.easyequities.co.za/the-savage-take-making-investment-intelligence-available-to-everyone), it was a conviction tested through product.
 
