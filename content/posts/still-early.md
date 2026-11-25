@@ -28,6 +28,8 @@ With that said though, I think it is receiving an overwhelmingly positive and we
 
 Sure, these things have a way of making everyone a design critic - but our new UI looks genuinely good.
 
+That said, not every sharp reaction is a design verdict. Althea covered this well in a [Fylom episode on redesign habit shock](https://fylom.com/e/wXT2LkzUjlim): after a major update, week one can look like a disaster even when the interface is better. Measure new users and the picture often softens. Habit is what broke first. As she put it, code ships in a day… users’ brains migrate over weeks. We need a little time before we can honestly tell.
+
 The land of software and UI/UX often gets me thinking...
 
 More than that. Deliberating...
@@ -118,9 +120,7 @@ That thinking reached twelve websites, a rebuilt support portal and every app in
 
 The teams have already polished the majority of the rough edges in a matter of hours. Unprecedented, and I continue to be impressed.
 
-Some feedback will help us improve and some of it will simply be a reaction to something unfamiliar. A big part of the fun is figuring out how we continue from here.
-
-Our job is to listen closely (especially to the data), improve upon the niggles and continue to empower the sensitive act of investing.
+Some of what comes next will be real niggles. Some of it will be that migration still underway. Our job is to listen closely (especially to the data), fix what is broken, and keep empowering the sensitive act of investing.
 
 What excites me is that we’re unlocking an absolutely insane cadence in an environment of high complexity (it’s really not as easy as it looks from the outside).
 
