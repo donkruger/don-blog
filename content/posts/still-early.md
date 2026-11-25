@@ -22,6 +22,92 @@ Five years in, I feel I have worn the badge long enough to write about that more
 
 The new EasyEquities UI went live earlier this week, and there’s quite a bit more to it than meets the eye.
 
+<figure class="post-phone-gallery">
+  <div
+    class="post-phone-gallery__scroller"
+    tabindex="0"
+    role="region"
+    aria-label="New EasyEquities app screenshots"
+    aria-roledescription="carousel"
+  >
+    <ul class="post-phone-gallery__track">
+      <li class="post-phone-gallery__slide">
+        <div class="post-phone">
+          <div class="post-phone__frame">
+            <div class="post-phone__screen">
+              <img
+                src="/images/posts/easy-ui/portfolio.webp"
+                alt="EasyEquities Portfolio screen with total value, growth chart and account allocation"
+                width="900"
+                height="1947"
+                loading="lazy"
+                decoding="async"
+              />
+            </div>
+          </div>
+          <p class="post-phone__label">Portfolio</p>
+        </div>
+      </li>
+      <li class="post-phone-gallery__slide">
+        <div class="post-phone">
+          <div class="post-phone__frame">
+            <div class="post-phone__screen">
+              <img
+                src="/images/posts/easy-ui/invest.webp"
+                alt="EasyEquities Invest screen with asset categories like shares, ETFs and crypto"
+                width="900"
+                height="1947"
+                loading="lazy"
+                decoding="async"
+              />
+            </div>
+          </div>
+          <p class="post-phone__label">Invest</p>
+        </div>
+      </li>
+      <li class="post-phone-gallery__slide">
+        <div class="post-phone">
+          <div class="post-phone__frame">
+            <div class="post-phone__screen">
+              <img
+                src="/images/posts/easy-ui/buy-amzn.webp"
+                alt="EasyEquities buy screen for Amazon stock with price chart and order actions"
+                width="900"
+                height="1947"
+                loading="lazy"
+                decoding="async"
+              />
+            </div>
+          </div>
+          <p class="post-phone__label">Buy flow</p>
+        </div>
+      </li>
+    </ul>
+  </div>
+  <div class="post-phone-gallery__chrome">
+    <button
+      type="button"
+      class="post-phone-gallery__nav"
+      data-phone-gallery-prev
+      aria-label="Show previous screen"
+    >
+      ‹
+    </button>
+    <div class="post-phone-gallery__dots" data-phone-gallery-dots></div>
+    <button
+      type="button"
+      class="post-phone-gallery__nav"
+      data-phone-gallery-next
+      aria-label="Show next screen"
+    >
+      ›
+    </button>
+  </div>
+  <figcaption>
+    <span class="post-figure__caption">A few screens from the new EasyEquities app. Swipe or use the arrows to look around.</span>
+  </figcaption>
+</figure>
+
 Our feed has been a mixture of compliments, questions, bug reports and the occasional person who has decided a new font marks the end of civilisation.
 
 With that said though, I think it is receiving an overwhelmingly positive and well-deserved response.
