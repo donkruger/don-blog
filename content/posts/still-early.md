@@ -28,7 +28,7 @@ With that said though, I think it is receiving an overwhelmingly positive and we
 
 Sure, these things have a way of making everyone a design critic - but our new UI looks genuinely good.
 
-That said, not every sharp reaction is a design verdict. Althea covered this well in a [Fylom episode on redesign habit shock](https://fylom.com/e/wXT2LkzUjlim): after a major update, week one can look like a disaster even when the interface is better. Measure new users and the picture often softens. Habit is what broke first. As she put it, code ships in a day… users’ brains migrate over weeks. We need a little time before we can honestly tell.
+That said, not every sharp reaction is a worthy design verdict. Althea covered this well in her [Fylom episode on redesign habit shock](https://fylom.com/e/wXT2LkzUjlim): after a major update, week one can look like a disaster even when the interface is better. As she put it, code ships in a day… users’ brains migrate over weeks.
 
 The land of software and UI/UX often gets me thinking...
 
