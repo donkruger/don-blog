@@ -126,7 +126,7 @@ What excites me is that we’re unlocking an absolutely insane cadence in an env
 
 A roadmap that used to look like three years can suddenly start looking like a few months.
 
-## Why Telescope matters
+## Looking through Telescope
 
 Earlier this year, Charles and the Group made the decision to acquire Telescope AI.
 
