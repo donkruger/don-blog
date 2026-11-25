@@ -134,7 +134,7 @@ I suspect we’ll look back on it as pivotal.
 
 Technically, yes, we procured a technology stack.
 
-But when I think about what we actually bought, I think about the people first.
+But when one thinks about what we actually bought, it helps to think about the people first.
 
 A team of Australian pioneers with a serious drive to succeed.
 
