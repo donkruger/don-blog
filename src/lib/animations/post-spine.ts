@@ -11,19 +11,21 @@ const DOT_LINE_FACTOR = 0.55;
 /**
  * Bottom-of-viewport band where body content fades in.
  *
- * Start is keyed off the element's BOTTOM edge at the moment it enters the
- * viewport ("bottom bottom"), not its top — so the fade/blur is already
- * applied before any of the text is meaningfully readable. Keying off the
- * top instead lets a tall paragraph's lower lines rise into view fully
- * opaque, with the fade only kicking in once the top edge finally crosses
- * the threshold — a visible "pop" as the effect retroactively applies.
+ * Both markers are keyed off the element's TOP edge so the scrub range
+ * stays in document order for short and tall blocks alike. Keying start
+ * off the bottom edge ("bottom bottom") inverted the range for anything
+ * taller than ~20% of the viewport: mid-screen carousels and long
+ * paragraphs stayed stuck in the pre-dimmed blur until the user scrolled
+ * much further.
  *
- * End stays keyed off the top edge at 80% down the viewport, so content is
- * always fully clear above roughly the bottom fifth of the screen and the
- * animation never fights reading.
+ * The "pop" that bottom-keying tried to fix (lower lines of a tall block
+ * arriving fully opaque before the fade arms) is handled by the immediate
+ * `gsap.set` dim below — content is born faded, then clears as its top
+ * crosses this band. End sits at 70% so anything at mid-viewport is
+ * already fully readable.
  */
-const FADE_START = "bottom bottom";
-const FADE_END = "top 80%";
+const FADE_START = "top 98%";
+const FADE_END = "top 70%";
 
 type DotEntry = { dot: HTMLElement; heading: HTMLElement; top: number };
 
@@ -36,10 +38,10 @@ type DotEntry = { dot: HTMLElement; heading: HTMLElement; top: number };
  *
  * Also drives the essay body's reveal: every direct child of
  * `.post-article__inner` sits at partial opacity/blur by default and clears
- * to fully visible only while it crosses the bottom band of the viewport —
- * everything above that band is always fully opaque, so the animation never
- * fights reading. No-JS and reduced-motion readers always see fully
- * readable, fully lit content.
+ * to fully visible while its top crosses the bottom band of the viewport
+ * (`top 98%` → `top 70%`) — everything above that band is always fully
+ * opaque, so the animation never fights reading. No-JS and reduced-motion
+ * readers always see fully readable, fully lit content.
  */
 export function initPostSpine(root: HTMLElement = document.body) {
   const mm = createMotionMedia();
