@@ -36,8 +36,8 @@ The new EasyEquities UI went live earlier this week, and there’s quite a bit m
           <div class="post-phone__frame">
             <div class="post-phone__screen">
               <img
-                src="/images/posts/easy-ui/portfolio.webp"
-                alt="EasyEquities Portfolio screen with total value, growth chart and account allocation"
+                src="/images/posts/easy-ui/portfolio.webp?v=2"
+                alt="EasyEquities Portfolio screen with growth chart and account allocation (balances hidden)"
                 width="900"
                 height="1947"
                 loading="lazy"
