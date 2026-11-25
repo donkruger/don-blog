@@ -204,7 +204,7 @@ Now we have to turn that pace into better experiences for the people who trust u
 
 That is why I’m bullish.
 
-For now, though, I’m starting to focus my sights on spending time with Ashton and resting well over the December holidays.
+For now, though, I’m starting to focus my sights on spending time with Ashton and Micky, friends, family and resting well over the December holidays. Kicking it in KZN, Southbroom. Yass.
 
 So that we can come back to 2027 with a bang.
 
