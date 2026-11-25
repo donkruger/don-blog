@@ -204,8 +204,6 @@ Now we have to turn that pace into better experiences for the people who trust u
 
 That is why I’m bullish.
 
-None of that holds if the people at home are running on empty. Rest is part of the work. So is keeping the relationships that matter in good shape - present, steady, and not permanently postponed for the next launch.
-
 For now, though, I’m starting to focus my sights on spending time with Ashton and resting well over the December holidays.
 
 So that we can come back to 2027 with a bang.
