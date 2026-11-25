@@ -114,7 +114,7 @@ In 2026, raw coding ability on its own no longer impresses me the way it once di
 
 Althea’s art stopped me in my tracks. You can feel years of seeing and practising sitting behind it.
 
-I feel it’s safe to assume that part of her life touched this launch. I just love knowing that this kind of eye exists inside the team. It speaks to the range of people now working together across product, engineering and design.
+I feel it’s safe to assume that part of her life touched this launch. I just love knowing that this kind of eye exists inside the team. It speaks to the range of people now working together across product, engineering and design. Beyond working life, it has sparked a desire to have more art in my life altogether.
 
 That thinking reached twelve websites, a rebuilt support portal and every app in one coordinated launch. Teams across South Africa, Australia and the Philippines worked through the night to bring it over the line.
 
