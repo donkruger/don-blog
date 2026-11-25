@@ -182,6 +182,24 @@ As Charles put it, we did not cut our way there. We served a great many more peo
 
 This is of course my grossly oversimplified takeaway.
 
+What the income statement still leaves out is sitting quietly in Purple Group’s publicly audited FY2026 cash flow statement and balance sheet.
+
+In FY26 the Group generated R141.1 million in net operating cash flow - 126% of Group profit after tax - even as cash taxes paid more than tripled to R54.3 million. Strip out capitalised software development as well as ordinary equipment spend, and you still get about R66 million of true owner free cash flow. Surplus working capital grew to R333.3 million. Just three years after a R105 million rights offer to fund the runway, the platform looks properly self-funding.
+
+Headline return on equity sits around 11%, which looks modest until you notice how much equity is legacy goodwill and capitalised platform intangibles. Measure earnings against the tangible capital actually running the franchise, and Group return on tangible equity jumps to about 31.9%. Pair that with retail unit economics that recoup a R76 client acquisition cost in roughly 6.25 months against R146 of blended annual net contribution per active client, and the compounding flywheel starts to look less like a slogan and more like arithmetic.
+
+<figure class="post-figure">
+  <img src="/images/posts/purple-rote-fy2026.svg" alt="Bar chart comparing Purple Group FY2026 headline ROE of 11.0% with Group ROTE of 31.9%" loading="lazy" />
+  <figcaption>
+    <span class="post-figure__caption">Headline ROE understates the tangible-capital engine underneath.</span>
+    <span class="post-figure__credit">Source: Purple Group audited FY2026 Annual Financial Statements</span>
+  </figcaption>
+</figure>
+
+Twelve years into the listed story, the financial compounding still feels early to me.
+
+(Disclosure: I work within the EasyEquities / Purple Group ecosystem. Figures above are from publicly audited FY2026 financial statements and public market data. Personal reflections only - not financial advice.)
+
 ## The next twelve months
 
 Today is mostly the skin. The journeys underneath are familiar (which was the point).

@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Purple Group FY2026: headline ROE versus Group ROTE</title>
+  <desc id="desc">Bar chart comparing headline return on equity of 11.0 percent with Group return on tangible equity of 31.9 percent for Purple Group FY2026.</desc>
+
+  <rect width="720" height="420" fill="#eceae4"/>
+
+  <text x="48" y="48" fill="#1c1f1d" font-family="Georgia, 'Source Serif 4', serif" font-size="22" font-weight="600">Headline ROE vs Group ROTE</text>
+  <text x="48" y="76" fill="#6b736e" font-family="Georgia, 'Source Serif 4', serif" font-size="14">Purple Group FY2026 (audited)</text>
+
+  <!-- Axis line -->
+  <line x1="120" y1="340" x2="600" y2="340" stroke="rgba(28,31,29,0.18)" stroke-width="2"/>
+
+  <!-- Scale ticks: 0, 10, 20, 30%  (max visual 36%) -->
+  <g fill="#6b736e" font-family="Syne, sans-serif" font-size="12">
+    <text x="108" y="344" text-anchor="end">0%</text>
+    <text x="108" y="260" text-anchor="end">10%</text>
+    <text x="108" y="176" text-anchor="end">20%</text>
+    <text x="108" y="92" text-anchor="end">30%</text>
+  </g>
+  <g stroke="rgba(28,31,29,0.08)" stroke-width="1">
+    <line x1="120" y1="336" x2="600" y2="336"/>
+    <line x1="120" y1="252" x2="600" y2="252"/>
+    <line x1="120" y1="168" x2="600" y2="168"/>
+    <line x1="120" y1="84" x2="600" y2="84"/>
+  </g>
+
+  <!--
+    Chart area height from y=84 (30%) to y=340 (0%) = 256px for 30%
+    px per % = 256/30 H 8.533
+    11.0% bar height = 11 * 8.533 H 93.9 ’ y = 340 - 94 = 246
+    31.9% bar height = 31.9 * 8.533 H 272.2 ’ y = 340 - 272 = 68
+  -->
+
+  <!-- Headline ROE 11.0% -->
+  <rect x="180" y="246" width="120" height="94" fill="#ddd9d0"/>
+  <text x="240" y="234" text-anchor="middle" fill="#1c1f1d" font-family="Syne, sans-serif" font-size="18" font-weight="700">11.0%</text>
+  <text x="240" y="368" text-anchor="middle" fill="#3a403c" font-family="Syne, sans-serif" font-size="13">Headline ROE</text>
+
+  <!-- Group ROTE 31.9% -->
+  <rect x="400" y="68" width="120" height="272" fill="#4f6350"/>
+  <text x="460" y="56" text-anchor="middle" fill="#1c1f1d" font-family="Syne, sans-serif" font-size="18" font-weight="700">31.9%</text>
+  <text x="460" y="368" text-anchor="middle" fill="#3a403c" font-family="Syne, sans-serif" font-size="13">Group ROTE</text>
+</svg>
