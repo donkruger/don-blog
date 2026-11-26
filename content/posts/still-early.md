@@ -299,6 +299,12 @@ Five years ago I joined a very different business. The numbers above say as much
 
 Now we have to turn that pace into better experiences for the people who trust us with their money.
 
+Starting Wednesday, our team began noticing strange networking behaviour.
+
+We are in an era where the average person can point something close to superintelligence at a system, and people with bad intentions are testing that on companies everywhere. [The past few weeks have made that mood hard to miss](https://www.theguardian.com/technology/2026/nov/22/hacks-ai-internet-outages-airlines-banks-microsoft-apple).
+
+Our team worked through the night to contain it. The level of craft I watched, and the way we locked in and adapted together, is another reason I am this excited about the company.
+
 That is why I’m bullish.
 
 For now, though, I’m starting to focus my sights on spending time with Ashton and Micky, friends, family and resting well over the December holidays. Kicking it in KZN, Southbroom. Yass.
