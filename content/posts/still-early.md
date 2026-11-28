@@ -30,7 +30,7 @@ I am not going to describe how it happened. That is still being worked, and it i
 
 That is the other reason I am bullish on the people here. Not instead of everything below. As well as it.
 
-The new EasyEquities UI went live earlier this week, and there’s quite a bit more to it than meets the eye.
+The new EasyEquities UI went live recently, and there’s quite a bit more to it than meets the eye.
 
 <figure class="post-phone-gallery">
   <div
