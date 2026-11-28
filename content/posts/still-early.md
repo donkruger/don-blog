@@ -22,13 +22,15 @@ Five years in, I feel I have worn the badge long enough to write about that more
 
 (I am not speaking for EasyEquities here. I am speaking as someone who has had the privilege of helping to build a part of it.)
 
+I’ll start by addressing the elephant in the room, though that is not what this blog is about.
+
 On Wednesday our team started noticing strange behaviour on the network. It became a cybersecurity incident. EasyEquities took the platform offline as a precaution, and I have been in the response, at the front of it, all week.
 
-I want to be clear about one thing, because it would be easy to assume the two are connected. This was not caused by the rebrand. The new interface and this incident are separate events. [EasyEquities has said the same](https://www.easyequities.co.za/support/crucial-easyequities-documents/security-incident-november-2026). What the company has confirmed is on that page, and in the [Purple Group SENS announcement](https://www.moneyweb.co.za/mny_sens/purple-group-limited-cybersecurity-incident-at-easyequities/).
+I want to be clear about one thing, because it would be easy to assume the two are connected. This was not caused by the rebrand. The new interface and this incident are separate events. We have released [formal statements](https://www.easyequities.co.za/support/crucial-easyequities-documents/security-incident-november-2026), including [SENS announcements](https://www.moneyweb.co.za/mny_sens/purple-group-limited-cybersecurity-incident-at-easyequities/), corroborating this, and I won’t go into those here.
 
-I am not going to describe how it happened. That is still being worked, and it is not mine to unpack here. What I will say is what I watched. The team responded in a way that the externally appointed cybersecurity specialists took the time to commend. Based on the investigation so far, no client funds have been lost.
+I am not going to describe how it happened. What I will say is what I watched. The team responded in a way that the externally appointed cybersecurity specialists took the time to commend. Based on the investigation so far, no client funds have been lost.
 
-That is the other reason I am bullish on the people here. Not instead of everything below. As well as it.
+I started writing this feeling bullish about the rebrand. Then the incident arrived, halfway through. Watching the team come together and get through something that big, while client funds stayed safe, has only made me more bullish on the company.
 
 The new EasyEquities UI went live recently, and there’s quite a bit more to it than meets the eye.
 
