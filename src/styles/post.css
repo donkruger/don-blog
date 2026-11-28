@@ -151,6 +151,16 @@
   margin-top: 0;
 }
 
+.post-article p.post-read-time {
+  font-family: var(--font-ui);
+  font-size: 0.82rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  line-height: 1.45;
+  color: var(--color-muted);
+  margin: 0 0 var(--space-xl);
+}
+
 .post-article p {
   margin: 0 0 1.15em;
   color: var(--color-ink-soft);

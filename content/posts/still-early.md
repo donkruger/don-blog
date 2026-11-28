@@ -10,6 +10,8 @@ tags:
   - work
 ---
 
+<p class="post-read-time">Ten-minute read. This article will take ten minutes of your precious time.</p>
+
 I recently realised I have friends and family who don’t really know all that much about my working life.
 
 I find myself conveying bits and pieces, usually in passing. mainly explaining what my title as Head of Platform is all about and all the remark-worthy shenanigans we’ve been up to.
@@ -19,6 +21,14 @@ I think this blog is also an opportunity to share what a year it has been in my 
 Five years in, I feel I have worn the badge long enough to write about that more personally.
 
 (I am not speaking for EasyEquities here. I am speaking as someone who has had the privilege of helping to build a part of it.)
+
+On Wednesday our team started noticing strange behaviour on the network. It became a cybersecurity incident. EasyEquities took the platform offline as a precaution, and I have been in the response, at the front of it, all week.
+
+I want to be clear about one thing, because it would be easy to assume the two are connected. This was not caused by the rebrand. The new interface and this incident are separate events. [EasyEquities has said the same](https://www.easyequities.co.za/support/crucial-easyequities-documents/security-incident-november-2026). What the company has confirmed is on that page, and in the [Purple Group SENS announcement](https://www.moneyweb.co.za/mny_sens/purple-group-limited-cybersecurity-incident-at-easyequities/).
+
+I am not going to describe how it happened. That is still being worked, and it is not mine to unpack here. What I will say is what I watched. The team responded in a way that the externally appointed cybersecurity specialists took the time to commend. Based on the investigation so far, no client funds have been lost.
+
+That is the other reason I am bullish on the people here. Not instead of everything below. As well as it.
 
 The new EasyEquities UI went live earlier this week, and there’s quite a bit more to it than meets the eye.
 
@@ -298,12 +308,6 @@ I’m grateful to be part of a team that challenges me honestly. I don’t alway
 Five years ago I joined a very different business. The numbers above say as much. Watching teams across three countries pull off this launch tells me we can keep changing as we grow.
 
 Now we have to turn that pace into better experiences for the people who trust us with their money.
-
-Starting Wednesday, our team began noticing strange networking behaviour.
-
-We are in an era where the average person can point something close to superintelligence at a system, and people with bad intentions are testing that on companies everywhere. [The past few weeks have made that mood hard to miss](https://www.theguardian.com/technology/2026/nov/22/hacks-ai-internet-outages-airlines-banks-microsoft-apple).
-
-Our team worked through the night to contain it. The level of craft I watched, and the way we locked in and adapted together, is another reason I am this excited about the company.
 
 That is why I’m bullish.
 
